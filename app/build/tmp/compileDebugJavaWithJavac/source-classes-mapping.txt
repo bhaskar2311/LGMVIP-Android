@@ -1,0 +1,12 @@
+com/example/covidtracker/Model.java
+ com.example.covidtracker.Model
+com/example/covidtracker/BuildConfig.java
+ com.example.covidtracker.BuildConfig
+com/example/covidtracker/CustomAdapter.java
+ com.example.covidtracker.CustomAdapter
+ com.example.covidtracker.CustomAdapter$ViewHolder
+com/example/covidtracker/MainActivity.java
+ com.example.covidtracker.MainActivity
+ com.example.covidtracker.MainActivity$1
+ com.example.covidtracker.MainActivity$1$1
+ com.example.covidtracker.MainActivity$2
